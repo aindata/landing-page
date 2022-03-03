@@ -2,7 +2,7 @@
 baseURL = "https://aindata.netlify.app/"
 languageCode = "en-us"
 summaryLength = "10"
-theme = "kross-hugo"
+theme = "landing-page"
 title = "Kross"
 
 # css plugins
