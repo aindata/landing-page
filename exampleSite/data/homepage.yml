@@ -1,11 +1,11 @@
 # banner
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
+  title : "AInData"
 
 # about
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "We build data driven products"
   button:
     enable : true
     label : "know more"
@@ -16,20 +16,20 @@ skill:
   enable : true
   title : "Skills"
   item:
-    - title : "Web Design"
-      progress : "90%"
+    - title : "Machine Learning"
+      progress : "98%"
       color : "#fdb157"
       
-    - title : "Logo Design"
+    - title : "Data Science"
       progress : "60%"
       color : "#9473e6"
       
-    - title : "After Effects"
+    - title : "SQL"
       progress : "80%"
       color : "#bdecf6"
       
-    - title : "Web App"
-      progress : "70%"
+    - title : "ML ops"
+      progress : "40%"
       color : "#ffbcaa"
 
 # experience
