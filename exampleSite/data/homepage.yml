@@ -5,7 +5,9 @@ banner:
 # about
 about:
   enable : true
-  content : "We build data driven products"
+  content : "AInData is led by machine learning engineers and data scientists having a variety of experience in delivering data driven products to world’s leading technology companies like Amazon, and startups shaping the systems of tomorrow's. Our solutions have delivered value in advertisement, operations research, banking, and media management. 
+  We not only follow state-of-the-art techniques from academia, but also contribute by publishing in influential AI conferences such as ACL, WWW and ICML. 
+  We offer top tier customer centered communication, engineering quality, and scientific rigor."
   button:
     enable : true
     label : "know more"
